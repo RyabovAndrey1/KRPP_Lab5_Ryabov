@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab5_KRPP_Ryabov", "Lab5_KRPP_Ryabov.csproj", "{3802FB32-DE78-4D61-9294-57FB44C819AA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3802FB32-DE78-4D61-9294-57FB44C819AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3802FB32-DE78-4D61-9294-57FB44C819AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3802FB32-DE78-4D61-9294-57FB44C819AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3802FB32-DE78-4D61-9294-57FB44C819AA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DF0942CD-5D51-4B45-9B04-A671E68EC7EC}
+	EndGlobalSection
+EndGlobal
